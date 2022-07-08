@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\!!!!!!! УЧЕБА!!!!\\GeekBrains\\1 четверть\\4. Знакомство с языками программирования\\Семинары 1-10\\DemidovichSeminar\\Example005DZ1\\Example005DZ1.csproj": {}
+    "D:\\МОЕ\\Учеба\\DemidovichSeminar\\Example005DZ1\\Example005DZ1.csproj": {}
   },
   "projects": {
-    "D:\\!!!!!!! УЧЕБА!!!!\\GeekBrains\\1 четверть\\4. Знакомство с языками программирования\\Семинары 1-10\\DemidovichSeminar\\Example005DZ1\\Example005DZ1.csproj": {
+    "D:\\МОЕ\\Учеба\\DemidovichSeminar\\Example005DZ1\\Example005DZ1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\!!!!!!! УЧЕБА!!!!\\GeekBrains\\1 четверть\\4. Знакомство с языками программирования\\Семинары 1-10\\DemidovichSeminar\\Example005DZ1\\Example005DZ1.csproj",
+        "projectUniqueName": "D:\\МОЕ\\Учеба\\DemidovichSeminar\\Example005DZ1\\Example005DZ1.csproj",
         "projectName": "Example005DZ1",
-        "projectPath": "D:\\!!!!!!! УЧЕБА!!!!\\GeekBrains\\1 четверть\\4. Знакомство с языками программирования\\Семинары 1-10\\DemidovichSeminar\\Example005DZ1\\Example005DZ1.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\!!!!!!! УЧЕБА!!!!\\GeekBrains\\1 четверть\\4. Знакомство с языками программирования\\Семинары 1-10\\DemidovichSeminar\\Example005DZ1\\obj\\",
+        "projectPath": "D:\\МОЕ\\Учеба\\DemidovichSeminar\\Example005DZ1\\Example005DZ1.csproj",
+        "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
+        "outputPath": "D:\\МОЕ\\Учеба\\DemidovichSeminar\\Example005DZ1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

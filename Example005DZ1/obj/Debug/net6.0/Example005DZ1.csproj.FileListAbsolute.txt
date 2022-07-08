@@ -13,3 +13,18 @@ D:\!!!!!!! УЧЕБА!!!!\GeekBrains\1 четверть\4. Знакомство 
 D:\!!!!!!! УЧЕБА!!!!\GeekBrains\1 четверть\4. Знакомство с языками программирования\Семинары 1-10\DemidovichSeminar\Example005DZ1\obj\Debug\net6.0\Example005DZ1.pdb
 D:\!!!!!!! УЧЕБА!!!!\GeekBrains\1 четверть\4. Знакомство с языками программирования\Семинары 1-10\DemidovichSeminar\Example005DZ1\obj\Debug\net6.0\Example005DZ1.genruntimeconfig.cache
 D:\!!!!!!! УЧЕБА!!!!\GeekBrains\1 четверть\4. Знакомство с языками программирования\Семинары 1-10\DemidovichSeminar\Example005DZ1\obj\Debug\net6.0\ref\Example005DZ1.dll
+D:\МОЕ\Учеба\DemidovichSeminar\Example005DZ1\bin\Debug\net6.0\Example005DZ1.exe
+D:\МОЕ\Учеба\DemidovichSeminar\Example005DZ1\bin\Debug\net6.0\Example005DZ1.deps.json
+D:\МОЕ\Учеба\DemidovichSeminar\Example005DZ1\bin\Debug\net6.0\Example005DZ1.runtimeconfig.json
+D:\МОЕ\Учеба\DemidovichSeminar\Example005DZ1\bin\Debug\net6.0\Example005DZ1.dll
+D:\МОЕ\Учеба\DemidovichSeminar\Example005DZ1\bin\Debug\net6.0\Example005DZ1.pdb
+D:\МОЕ\Учеба\DemidovichSeminar\Example005DZ1\obj\Debug\net6.0\Example005DZ1.csproj.AssemblyReference.cache
+D:\МОЕ\Учеба\DemidovichSeminar\Example005DZ1\obj\Debug\net6.0\Example005DZ1.GeneratedMSBuildEditorConfig.editorconfig
+D:\МОЕ\Учеба\DemidovichSeminar\Example005DZ1\obj\Debug\net6.0\Example005DZ1.AssemblyInfoInputs.cache
+D:\МОЕ\Учеба\DemidovichSeminar\Example005DZ1\obj\Debug\net6.0\Example005DZ1.AssemblyInfo.cs
+D:\МОЕ\Учеба\DemidovichSeminar\Example005DZ1\obj\Debug\net6.0\Example005DZ1.csproj.CoreCompileInputs.cache
+D:\МОЕ\Учеба\DemidovichSeminar\Example005DZ1\obj\Debug\net6.0\Example005DZ1.dll
+D:\МОЕ\Учеба\DemidovichSeminar\Example005DZ1\obj\Debug\net6.0\refint\Example005DZ1.dll
+D:\МОЕ\Учеба\DemidovichSeminar\Example005DZ1\obj\Debug\net6.0\Example005DZ1.pdb
+D:\МОЕ\Учеба\DemidovichSeminar\Example005DZ1\obj\Debug\net6.0\Example005DZ1.genruntimeconfig.cache
+D:\МОЕ\Учеба\DemidovichSeminar\Example005DZ1\obj\Debug\net6.0\ref\Example005DZ1.dll
